@@ -1,4 +1,4 @@
-## Hello, We Are InitialD InitialDinternational 👋
+## Hello, We Are  Initial D international 👋
 
 ### We are gamer developer and much more 
 
