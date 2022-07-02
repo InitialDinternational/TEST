@@ -10,5 +10,4 @@
   
   <br>
   Github statistics :<br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=&theme=dark&hide_border=true">
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=InitialDinternational&theme=dark&hide_border=true">
